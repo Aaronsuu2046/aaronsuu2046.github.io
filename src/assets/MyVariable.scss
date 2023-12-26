@@ -1,0 +1,26 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+$Col-60:#F6F4D2; //Main color
+$Col-30:#F19C79; //Secondary color
+$Col-10:#A44A3F; //impotation color
+
+
+//bootstrap card;
+$card-bg: $Col-30;
+$card-border: $Col-10;
+$card-text: $black;
+
+
+//bootstrap breadcrumb
+
+$breadcrumb-font-size:              null;
+$breadcrumb-padding-y:              0;
+$breadcrumb-padding-x:              0;
+$breadcrumb-item-padding-x:         .5rem;
+$breadcrumb-margin-bottom:          1rem;
+$breadcrumb-bg:                     $Col-60;
+$breadcrumb-divider-color:          $gray-600;
+$breadcrumb-active-color:           $gray-600;
+$breadcrumb-divider:                quote(">");
+$breadcrumb-divider-flipped:        $breadcrumb-divider;
+$breadcrumb-border-radius:          null;

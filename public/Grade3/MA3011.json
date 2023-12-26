@@ -1,0 +1,33 @@
+{
+    "id": "MA3011",
+    "introvideo": "src",
+    "TotalLevel": 5,
+    "GameType": "TrueFalse",
+    "Questions": [
+        {
+            "Question": "Text1",
+            "Answer": true,
+            "img":"@/assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text2",
+            "Answer": true,
+            "img":"../../assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text3",
+            "Answer": true,
+            "img":"../../assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text4",
+            "Answer": true,
+            "img":"../assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text5",
+            "Answer": true,
+            "img":"../assets/images/pics/cover_info.jpeg"
+        }
+    ]
+}

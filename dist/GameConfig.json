@@ -1,0 +1,16 @@
+{
+    "Button":{
+        "previous": "@/assets/button/previous.png",
+        "next": "@/assets/button/next.png",
+        "start": "@/assets/button/start.png",
+        "info": "@/assets/button/info.png",
+        "restart": "@/assets/button/restart.png",
+        "submit": "@/assets/button/submit.png",
+        "hint": "@/assets/button/hint.png"
+    },
+    "Subject":{
+        "chinese": "@/assets/button/chinese.png",
+        "math": "@/assets/button/math.png",
+        "technology": "@/assets/button/technology.png"
+    }
+}

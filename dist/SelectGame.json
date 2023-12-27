@@ -1,0 +1,13 @@
+{
+    "id": "",
+    "introvideo": "src",
+    "TotalLevel": 5,
+    "GameType": "TrueFalse",
+    "Questions": {
+        "1": {
+            "Question": ["Question1"],
+            "Answer": "num",
+            "img":"src"
+        }
+    }
+}

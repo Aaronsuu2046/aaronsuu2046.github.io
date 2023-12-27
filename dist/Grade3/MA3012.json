@@ -1,0 +1,33 @@
+{
+    "id": "3012",
+    "introvideo": "src",
+    "TotalLevel": 5,
+    "GameType": "SelectGame",
+    "Questions": [
+        {
+            "Question": ["Question1","Question2","Question3","Question4","Question5"],
+            "Answer":  "Question1",
+            "img":"@/assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": ["Question1","Question2","Question3","Question4","Question5"],
+            "Answer":  "Question2",
+            "img":"@/assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": ["Question1","Question2","Question3","Question4","Question5"],
+            "Answer":  "Question3",
+            "img":"@/assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": ["Question1","Question2","Question3","Question4","Question5"],
+            "Answer":  "Question4",
+            "img":"@/assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": ["Question1","Question2","Question3","Question4","Question5"],
+            "Answer":  "Question5",
+            "img":"@/assets/images/pics/cover_info.jpeg"
+        }
+    ]
+}

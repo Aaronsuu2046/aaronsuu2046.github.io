@@ -1,0 +1,38 @@
+{
+    "id": "MA3013",
+    "introvideo": "src",
+    "TotalLevel": 6,
+    "GameType": "NumberInputGame",
+    "Questions": [
+        {
+            "Question": "Text1",
+            "Answer": "123",
+            "img":"@/assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text2",
+            "Answer": "123",
+            "img":"../../assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text3",
+            "Answer": "123",
+            "img":"../../assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text4",
+            "Answer": "123",
+            "img":"../assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text5",
+            "Answer": "123",
+            "img":"../assets/images/pics/cover_info.jpeg"
+        },
+        {
+            "Question": "Text6",
+            "Answer": "123",
+            "img":"../assets/images/pics/cover_info.jpeg"
+        }
+    ]
+}

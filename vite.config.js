@@ -6,7 +6,7 @@ import vue from '@vitejs/plugin-vue'
 
 import inject from '@rollup/plugin-inject'
 export default defineConfig({
-    base:'./',
+    base: '/',
     plugins: [
         vue(),
         inject({

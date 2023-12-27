@@ -12,5 +12,9 @@
         "chinese": "@/assets/button/chinese.png",
         "math": "@/assets/button/math.png",
         "technology": "@/assets/button/technology.png"
+    },
+    "TrueFalseGame":{
+        "T": "正確",
+        "F": "錯誤"
     }
 }

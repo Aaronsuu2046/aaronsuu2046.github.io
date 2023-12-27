@@ -4,7 +4,7 @@
             <div class="col-md-8">
                 <div class="card mx-auto">
                     <div class="card-body">
-                        <img class="card-img-top" :src="require(imgsrc)" alt="Card image cap">
+                        <img class="card-img-top" :src="computedImgSrc" alt="Card image cap">
                     </div>
                 </div>
             </div>
@@ -29,6 +29,11 @@ export default {
     data(){
         return {
    
+        }
+    },
+    computed: {
+        computedImgSrc() {
+            return require(`@/assets/images/pics/${this.imgsrc}`);
         }
     },
     props: {

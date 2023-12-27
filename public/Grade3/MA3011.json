@@ -7,7 +7,7 @@
         {
             "Question": "Text1",
             "Answer": true,
-            "img":"@/assets/images/pics/cover_info.jpeg"
+            "img":"cover_info.jpeg"
         },
         {
             "Question": "Text2",

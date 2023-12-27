@@ -51,14 +51,14 @@
                   <a class="list-group-item"><img src="@/assets/buttonV3/calculator.png" class="img-hover-zoom"></a>
                   <a class="list-group-item"><img src="@/assets/buttonV3/record.png" class="img-hover-zoom"></a>
                 </div>
-                <!-- Temp check box
+                Temp check box
                 For Switch Game Status
                 <select v-model="GameStatus">
                   <option value="">請選擇一個選項</option>
                   <option value="NotStart">NotStart</option>
                   <option value="Progressing">Progressing</option>
                   <option value="Done">Done</option>
-                </select> -->
+                </select>
             </div>
           </div>
             <!--Modal -->
